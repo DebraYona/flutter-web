@@ -39,32 +39,3 @@
 
 <br />
 <br />
-<img src="https://user-images.githubusercontent.com/10207753/84770526-2589fa00-aff1-11ea-83bf-f1255b9371ac.jpg" width="50" height="30" />
-<a href="https://youtu.be/viOcfjqIF-s">Watch Flutter Booking Management Dashboard- Responsive complete video </a>
-</p>
-<br />
-
-### How to Create a Flutter Web project
-
-
- <br />
- switch to the master channel run the following command
-
- ``1. flutter channel master``  <br />
- Then upgrade your flutter to the latest version from master.  <br />
-`` 2. flutter upgrade``  <br />
-Then enable web support.  <br />
-`` 3. flutter config --enable-web``  <br />
-
-Now when you create a project it'll be web enabled and you can run it in the browser. to verify that run this cmd. <br />
-
-``flutter devices``
- <br />
- 
-Then
-``flutter create xyz_project_name``
- <br />
-
-### Created & Maintained By
-
-[@AmirKhan](https://github.com/amirk3321) , Youtube : [@eTechViral](https://www.youtube.com/channel/UCO6gMNHYhRqyzbskNh4gG_A) , Twitter  : [@AmirKhan](https://twitter.com/__Meer___)
